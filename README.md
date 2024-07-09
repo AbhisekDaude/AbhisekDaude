@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fpinterest--655766395736890714%2F&psig=AOvVaw3ZYpOOwSB01m0wTCTxuUzO&ust=1720626079333000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDnnuqlmocDFQAAAAAdAAAAABAE)
+
 <h1 align="center">HELLO EVERY ONE I AM ABHISEK DAUDE</h1>
 <h3 align="center">I am student of computer engineering from far western university</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
